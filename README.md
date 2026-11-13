@@ -6,7 +6,7 @@ Alongside my systems security research, I build machine learning and deep learni
 
 I hold an M.S. in Electrical Engineering (2025) and am pursuing my Ph.D. in Computer Science at **Oklahoma State University** (2025–Present).
 
-I worked for Huawei Technology as a Product Solution Architect around 8 years and Radio and Transmission Engineer in Ericsson for around 2 years.
+I worked at Huawei Technologies as a Product Solution Architect for approximately eight years and at Ericsson as a Radio and Transmission Engineer for approximately two years.
 
 #### Research code
 Every research repository includes end-to-end reproducible scripts, documented architecture configurations, and experimental evaluation artifacts.
