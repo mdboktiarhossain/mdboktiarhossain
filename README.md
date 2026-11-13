@@ -24,7 +24,7 @@
 | :--- | :--- | :--- |
 | **[DDoS: Decentralized Detection & Mitigation](https://github.com/mdboktiarhossain/DDoS--Decentralized-Detection-Mitigation)** | Kubernetes & Istio Security | Decentralized autonomic ML defender with **2D parallel execution**, **98.9% F1-score**, **<2.1 s total detection-to-mitigation latency**, and priority-aware policy reconciliation across 7 microservice replicas. |
 | **[Compliance Guard: Automated SAC & MAPE-K Engine](https://github.com/mdboktiarhossain/Compliance-Guard--Automated-SAC-Instantiation)** | Regulatory Compliance & Self-Adaptation | Automated LLM policy extraction (**38 atomic NIST SP 800-53 rules**), **117-node Labeled Property Graph**, **7-level GSN assurance tree constructor**, quantitative satisficing completeness scoring, and automated MAPE-K service failover. |
-| **[AI-Driven Anomaly Detector as a Service](https://github.com/mdboktiarhossain/AI-Driven-Anamoly-Detector-as-a-service)** | Microservice Telemetry & ML | Containerized anomaly detection microservice for cloud-native service mesh environments. |
+| **[AI-Driven Anomaly Detector as a Service](https://github.com/mdboktiarhossain/AI-Driven-Anomaly-Detector-as-a-Service)** | Microservice Telemetry & ML | Containerized anomaly detection microservice for cloud-native service mesh environments. |
 
 ---
 
