@@ -4,7 +4,9 @@ I'm a Ph.D. Candidate in Computer Science at **Oklahoma State University** (Stil
 
 Alongside my systems security research, I build machine learning and deep learning pipelines for network intrusion detection, microservice telemetry anomaly classification, medical diagnostics, computer vision, and antenna/RF propagation modeling.
 
-I hold an M.S. in Electrical Engineering from **San Francisco Bay University** (2024) and am pursuing my Ph.D. in Computer Science at **Oklahoma State University** (2025–Present).
+I hold an M.S. in Electrical Engineering (2024) and am pursuing my Ph.D. in Computer Science at **Oklahoma State University** (2025–Present).
+
+I worked for Huawei Technology as a Product Solution Architect around 8 years and Radio and Transmission Engineer in Ericsson for around 2 years.
 
 #### Research code
 Every research repository includes end-to-end reproducible scripts, documented architecture configurations, and experimental evaluation artifacts.
