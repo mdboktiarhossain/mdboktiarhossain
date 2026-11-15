@@ -1,4 +1,4 @@
-### Hi, I'm Boktiar
+### Hi, I'm Boktiar Hossain
 
 I'm a Ph.D. Candidate in Computer Science at **Oklahoma State University** (Stillwater, Oklahoma), working in the [Dr Jahan's Lab](https://congpu.github.io/secnet/index.html). My doctoral research focuses on cloud-native cybersecurity, service-mesh defense, and self-adaptive systems: building decentralized machine-learning defenders for service-level DDoS detection and conflict-free policy reconciliation in **Kubernetes** and **Istio**, and automating **Goal Structuring Notation (GSN)** Security Assurance Case (SAC) instantiation and **MAPE-K** runtime failover under **NIST SP 800-53**.
 
